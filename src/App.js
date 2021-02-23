@@ -19,7 +19,7 @@ function App() {
       <p>{post.body}</p>
       <h3>Comments:</h3>
       <p>{post.comments[0]}</p>
-      <Comment content= "hello!" />
+      <Comment name="Nikki" content= "Hello there!" />
     </div>
   );
 }
